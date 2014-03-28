@@ -1,4 +1,3 @@
-bivore.com
-==========
+Feel free to use the theme(s). It'd be nice of you to attribute. :blush:
 
-bivore blog
+[@muanchiou](http://twitter.com/muanchiou)
