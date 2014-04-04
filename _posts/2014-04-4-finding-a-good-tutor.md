@@ -5,7 +5,7 @@ date: 2013-04-04 01:43:50
 cover: /images/13082901.jpg
 ---
 
-Arrived. 
+Arrived Tutor. 
 
 The tram door closed on me, hitting on my tibia, hurt so much.
 
