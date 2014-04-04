@@ -1,5 +1,6 @@
 title:            Bivore
-url:              /
+url:              www.bivore.com
+baseurl:          /
 permalink:        pretty
 pygments:         true
 markdown:         rdiscount
