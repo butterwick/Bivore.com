@@ -1,11 +1,11 @@
 baseurl:          /bivore.com
 title:            Bivore
+url:              www.bivore.com
 permalink:        pretty
 pygments:         true
 markdown:         rdiscount
 rdiscount:
   extensions:     [smart]
-google_analytics: UA-21332781-7
 timezone:         Europe/London
 paginate: 5
 links: 
