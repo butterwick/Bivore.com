@@ -1,6 +1,5 @@
-baseurl:          /bivore.com
 title:            Bivore
-url:              www.bivore.com
+url:              http://butterwick.github.io/bivore.com/com
 permalink:        pretty
 pygments:         true
 markdown:         rdiscount
