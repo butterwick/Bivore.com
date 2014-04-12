@@ -5,42 +5,11 @@ date: 2014-03-13 01:43:50
 cover: /images/13082901.jpg
 ---
 
-Arrived at Zurich. 
+There's an article on Quora asking ["How can I determine what my personal basal sleep requirement is?"](http://www.quora.com/Sleep/How-can-I-determine-what-my-personal-basal-sleep-requirement-is) The short answer is 7-9 hours of sleep.
 
-The tram door closed on me, hitting on my tibia, hurt so much.
+However there was an interesting answer that warrants some further thought:
+> Scientists have found a gene that seems to allow some of us to get as much sleep as we need in as little time as 6 hours. But only 3% of us have that gene. Most likely you're in the other 97%. And if you're getting less than 6 hours, you are building up a big "sleep debt" in your body even if you have got the gene.
 
-Got off the tram, was waiting to cross the street.<br />
-Some random Swiss said: just cross.
+I tracked down the paper from the [lab of Ying-Hui Fu](http://www.neugenes.org/outreach.htm) at UCSF. The paper, titled [The Transcriptional Repressor DEC2 Regulates Sleep Length in Mammals](http://www.sciencemag.org/content/325/5942/866), identifies a single mutation (a C to G DNA point mutation) on a gene that gives its carriers the ability to naturally wake-up earlier,as they require less sleep.  The paper goes on to recapitulate the effects of this mutation in mice, because we can easily modify their genomes. The only issue, is that mice don't really sleep the same way humans do.  
 
-After crossing, I tried to figure out which direction is the street I am looking for.<br />
-That random Swiss has walked off for about 30 meters.<br />
-Swiss looked back, paused, and walked back, asking "Are you looking for something?"
-
-I pointed at the Google Maps, not knowing how to pronounce it.<br />
-Swiss pointed at places, and said "I am walking that way as well"
-
-Within a couple steps, I got tripped by a plank on the road and fell.<br />
-Scratch my thumb, it bled a bit. My iPhone screen was shuttered.
-
-Random Swiss asked me "Are you alright?"<br />
-I said "Yes."<br />
-Random Swiss asked again.<br />
-I said "Yes."<br />
-Random Swiss asked "Are you sure?"<br />
-I said "Well there's nothing else I can do now."
-
-We chatted. <br />
-Then we found the road. Swiss asked me for the apartment number and walked me to it.
-
-Swiss had been to Taipei for work before.<br />
-Swiss sounded like some sort of mechnical engineer.<br />
-Swiss said he then spent a week traveling the island, and like Taitung the most.<br />
-
-We talked about how Taiwanese people are all so nice.<br />
-People who live in the southern part of the island especially.<br />
-They don't speak a word in English, but they want to help you SO MUCH as if it's their lives' mission.<br />
-And you just smile and nod.
-
-Then we found my place, the 24th.
-
-Goodbye.
+Anyways, it's interesting, because there are now technologies that can be used to easily screen for this mutation, as well as potentially [edit the gene](http://zlab.mit.edu) in humans. But at the same time, I'll continue to enjoy my sleep.
